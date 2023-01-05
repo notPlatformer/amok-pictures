@@ -1,10 +1,7 @@
 # Amok Runner optimized pictures puzzle
-the strat times (ex. 14.05s) mean the amount of time for all of the moves to be completed. i got this time from adding up all of the moves from the [frames](https://github.com/notPlatformer/amok-pictures/blob/main/times.json) it takes to move a picture from one position to another. the frames are in 60fps
+[click here to pick what inputs to choose!](https://github.com/notPlatformer/amok-pictures/blob/main/inputs.txt)
 
-### 14.05s strat
-**most optimized**
-
-i found these inputs to be the most optimized (after about 10 billion loops on my algorithm!!)
+or you can just go with these ones (they are the ones i found the earliest)
 - S SPACE D SPACE
 - SPACE S SPACE
 - W D SPACE S A SPACE
