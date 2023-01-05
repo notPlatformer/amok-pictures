@@ -6,60 +6,60 @@ you can look at them and decide which ones to use. or if you want to make change
 
 #1
 3-4, 4-9, 6-8, 8-1, 2-4, 4-7, 4-5
-  down SPACE right SPACE
-  SPACE down SPACE
-  up right SPACE down left SPACE
-  SPACE left up up SPACE
-  right SPACE down SPACE
-  SPACE left down SPACE
-  right up SPACE right SPACE
+  S space D space
+  space S space
+  W D space S A space
+  space A W W space
+  D space S space
+  space A S space
+  D W space D space
 
 #2
 3-4, 4-9, 6-8, 8-1, 2-4, 4-7, 4-5
-  down SPACE right SPACE
-  SPACE down SPACE
-  up right SPACE down left SPACE
-  SPACE up left up SPACE
-  right SPACE down SPACE
-  SPACE left down SPACE
-  right up SPACE right SPACE
+  S space D space
+  space S space
+  W D space S A space
+  space W A W space
+  D space S space
+  space A S space
+  D W space D space
 
 #3
 3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
-  down SPACE right SPACE
-  SPACE down SPACE
-  up right SPACE down left SPACE
-  SPACE left up up SPACE
-  right SPACE down SPACE
-  left down SPACE right up SPACE
-  SPACE right SPACE
+  S space D space
+  space S space
+  W D space S A space
+  space A W W space
+  D space S space
+  A S space D W space
+  space D space
 
 #4
 3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
-  down SPACE right SPACE
-  SPACE down SPACE
-  up right SPACE down left SPACE
-  SPACE up left up SPACE
-  right SPACE down SPACE
-  left down SPACE right up SPACE
-  SPACE right SPACE
+  S space D space
+  space S space
+  W D space S A space
+  space W A W space
+  D space S space
+  A S space D W space
+  space D space
 
 #5
 3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
-  down SPACE right SPACE
-  SPACE down SPACE
-  up right SPACE down left SPACE
-  SPACE left up up SPACE
-  right SPACE down SPACE
-  left down SPACE up right SPACE
-  SPACE right SPACE
+  S space D space
+  space S space
+  W D space S A space
+  space A W W space
+  D space S space
+  A S space W D space
+  space D space
 
 #6
 3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
-  down SPACE right SPACE
-  SPACE down SPACE
-  up right SPACE down left SPACE
-  SPACE up left up SPACE
-  right SPACE down SPACE
-  left down SPACE up right SPACE
-  SPACE right SPACE
+  S space D space
+  space S space
+  W D space S A space
+  space W A W space
+  D space S space
+  A S space W D space
+  space D space
