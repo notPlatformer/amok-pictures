@@ -2,13 +2,13 @@
 [click here to pick what inputs to choose!](https://github.com/notPlatformer/amok-pictures/blob/main/inputs.txt)
 
 or you can just go with these ones (they are the ones i found the earliest)
-- S SPACE D SPACE
-- SPACE S SPACE
-- W D SPACE S A SPACE
-- SPACE A W W SPACE
-- D SPACE S SPACE
-- SPACE A S SPACE
-- D W SPACE D SPACE
+- S space D space
+- space S space
+- W D space S A space
+- space A W W space
+- D space S space
+- space A S space
+- D W space D space
 
 here are the moves that each of them uses (see [picture numbers](https://github.com/notPlatformer/amok-pictures/blob/main/picture_numbers.png) for what the numbers mean)
 - 3-4
