@@ -54,3 +54,5 @@ if the puzzle is solved with those moves, it saves the amount of frames it took 
 
 # something technical i guess
 i made another program to solve the fastest possible order of moves of a single combination of moves. this includes the time it takes to move your selection from picture A to picture B. i will not explain how this works, as it is complex. i may explain it a little bit later on!! maybe. **just maybe.** no promises.
+
+sorry this is a bit hard to understand and i cannot think of a better way to word it so yeah. enjoy your day!
