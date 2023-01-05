@@ -1,0 +1,65 @@
+here are the most optimized strats i found for the picture puzzle.
+it all comes down to preference, you can pick any of them, they're all as fast.
+
+#1 and #2 differ from the rest (#3-#6).
+you can look at them and decide which ones to use. or if you want to make changes to them, feel free to!
+
+#1
+3-4, 4-9, 6-8, 8-1, 2-4, 4-7, 4-5
+  down SPACE right SPACE
+  SPACE down SPACE
+  up right SPACE down left SPACE
+  SPACE left up up SPACE
+  right SPACE down SPACE
+  SPACE left down SPACE
+  right up SPACE right SPACE
+
+#2
+3-4, 4-9, 6-8, 8-1, 2-4, 4-7, 4-5
+  down SPACE right SPACE
+  SPACE down SPACE
+  up right SPACE down left SPACE
+  SPACE up left up SPACE
+  right SPACE down SPACE
+  SPACE left down SPACE
+  right up SPACE right SPACE
+
+#3
+3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
+  down SPACE right SPACE
+  SPACE down SPACE
+  up right SPACE down left SPACE
+  SPACE left up up SPACE
+  right SPACE down SPACE
+  left down SPACE right up SPACE
+  SPACE right SPACE
+
+#4
+3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
+  down SPACE right SPACE
+  SPACE down SPACE
+  up right SPACE down left SPACE
+  SPACE up left up SPACE
+  right SPACE down SPACE
+  left down SPACE right up SPACE
+  SPACE right SPACE
+
+#5
+3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
+  down SPACE right SPACE
+  SPACE down SPACE
+  up right SPACE down left SPACE
+  SPACE left up up SPACE
+  right SPACE down SPACE
+  left down SPACE up right SPACE
+  SPACE right SPACE
+
+#6
+3-4, 4-9, 6-8, 8-1, 2-4, 7-4, 4-5
+  down SPACE right SPACE
+  SPACE down SPACE
+  up right SPACE down left SPACE
+  SPACE up left up SPACE
+  right SPACE down SPACE
+  left down SPACE up right SPACE
+  SPACE right SPACE
