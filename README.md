@@ -44,8 +44,13 @@ i polished this a bit so they're more understandable.
 ### [find_fastest_moves_rand.py](https://github.com/notPlatformer/amok-pictures/blob/main/find_fastest_moves_rand.py)
 the program i used to find the 14.05s strat
 
-basically the program generates a random combination of moves (7 moves, as that is the least that can be used to solve the puzzle. yes, i brute forced ALL combinations of 6 moves, totaling 1,402,410,240 combinations. none of them worked!)
+basically the program generates a random combination of moves (7 moves, as that is the least that can be used to solve the puzzle. yes, i brute forced ALL combinations of 6 moves, totaling `1,402,410,240` combinations. none of them worked!)
 
 with this combination of moves, it then checks if it solves the puzzle after executing all possible moves.
 
-if the puzzle is solved with those moves, it saves the amount of frames it took to solve it. the amount of frames is every single move's amount of frames it takes to complete that entire move added up. this is from [frames per move](https://github.com/notPlatformer/amok-pictures/blob/main/times.json)
+if the puzzle is solved with those moves, it saves the amount of frames it took to solve it. the amount of frames is every single move's amount of frames it takes to complete that entire move added up. this is from [frames to move a picture from one position to another](https://github.com/notPlatformer/amok-pictures/blob/main/times.json).
+
+
+
+# something technical i guess
+i made another program to solve the fastest possible order of moves of a single combination of moves. this includes the time it takes to move your selection from picture A to picture B. i will not explain how this works, as it is complex. i may explain it a little bit later on!! maybe. **just maybe.** no promises.
