@@ -1,5 +1,5 @@
 # Amok Runner optimized pictures puzzle
-[click here to pick what inputs to choose!](https://github.com/notPlatformer/amok-pictures/blob/main/inputs.txt)
+[click here to see other inputs that are as fast](https://github.com/notPlatformer/amok-pictures/blob/main/inputs.txt)
 
 or you can just go with these ones (they are the ones i found the earliest)
 - S space D space
