@@ -23,7 +23,6 @@ here are the moves that each of them uses (see [picture numbers](https://github.
 ### [times.json](https://github.com/notPlatformer/amok-pictures/blob/main/times.json)
 
 this file contains the amount of frames a picture from position A takes to move to position B.
-
 as the time a picture takes to move from position 1 to position 8 is the same as 8 to 1, only 1 to 8 is shown in the file.
 
 ### [moves.json](https://github.com/notPlatformer/amok-pictures/blob/main/moves.json)
