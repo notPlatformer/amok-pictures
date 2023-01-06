@@ -41,7 +41,7 @@ i polished this a bit so they're more understandable.
 ### [find_fastest_moves_rand.py](https://github.com/notPlatformer/amok-pictures/blob/main/find_fastest_moves_rand.py)
 the program i used to find the 14.05s strat
 
-basically the program generates a random combination of moves (7 moves, as that is the least that can be used to solve the puzzle. yes, i brute forced ALL combinations of 6 moves, totaling `1,402,410,240` combinations. none of them worked!)
+basically the program generates a random combination of moves (7 moves, as that is the least that can be used to solve the puzzle. yes, i brute forced ALL combinations of 6 moves, totaling `1,402,410,240` combinations. none of them worked! update: brute forcing all combinations of 7 moves done, no further optimizations were made over the fastest strats in [inputs](https://github.com/notPlatformer/amok-pictures/blob/main/inputs.txt). fun fact: there are `42,072,307,200` 7 move combinations)
 
 with this combination of moves, it then checks if it solves the puzzle after executing all possible moves.
 
